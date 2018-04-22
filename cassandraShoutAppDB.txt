@@ -7,7 +7,7 @@ CREATE TABLE users (
   username text PRIMARY KEY,
   password text,
   email text,
-  name text
+  fullname text
 );
 
 
